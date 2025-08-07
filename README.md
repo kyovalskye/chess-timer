@@ -1,4 +1,4 @@
-# chess_timer_aseli_njir
+# Chess Timer
 
 A new Flutter project.
 
